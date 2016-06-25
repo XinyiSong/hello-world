@@ -1,6 +1,6 @@
 #Quality of Experience for Mobile Video Users
 ##文档简介
-    Dialogic公司是全球电脑语音(CT,Computer Telephony)产品著名的供应商。它的视频研究及发展实验室（Dialogic Media Labs）正在创造视频QoE的度量技术。本文就是Dialogic公司发布的关于Mobile Video QoE的白皮书。它主要介绍了以下几个方面的内容：
+Dialogic公司是全球电脑语音(CT,Computer Telephony)产品著名的供应商。它的视频研究及发展实验室（Dialogic Media Labs）正在创造视频QoE的度量技术。本文就是Dialogic公司发布的关于Mobile Video QoE的白皮书。它主要介绍了以下几个方面的内容：
 * 介绍视频质量通常是如何衡量的
 * 介绍目前已被使用的度量视频质量的工具和技术的信息
 ##对质量的量化
@@ -34,7 +34,7 @@
 2. In-Service测试  
 特点：采用无参考测量技术，常被用来实时监测视频质量问题
 ###视频质量测量的特点
-    在过去，人们主要致力于研究QoS（Quality of Service），要保证服务质量，只需要监管传输网络并且确保它正常工作。而现在我们要研究的是QoE（Quality of Experience），它仅仅与用户感知到的视频画面质量有关。QoS与QoE的两个主要的差别在于质量测量在哪里进行以及用户感知的角色。
+在过去，人们主要致力于研究QoS（Quality of Service），要保证服务质量，只需要监管传输网络并且确保它正常工作。而现在我们要研究的是QoE（Quality of Experience），它仅仅与用户感知到的视频画面质量有关。QoS与QoE的两个主要的差别在于质量测量在哪里进行以及用户感知的角色。
 1. 质量测量在哪里进行  
 在QoS技术中，质量测量在网络中进行；在QoE技术中，质量测量在观看视频的设备上进行。
 2. 用户感知的角色  
